@@ -16,7 +16,4 @@ Password checker:
 
 to run this step use the next commands:
 
- python -m main.py <Password 1> <Password 2> <Password 3>
-
-
-
+ python -m main.py `Password 1` `Password 2` `Password 3`
